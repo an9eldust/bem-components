@@ -1,6 +1,6 @@
 @media all and (min-width:0px) {
 
-    .radio-button_disabled_yes .radio-button__radio
+    .radio-button__radio_disabled_yes .radio-button__radio
     {
         cursor: default;
     }
