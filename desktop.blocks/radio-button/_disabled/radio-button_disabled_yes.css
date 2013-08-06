@@ -1,0 +1,8 @@
+@media all and (min-width:0px) {
+
+    .radio-button_disabled_yes .radio-button__control
+    {
+        cursor: default;
+    }
+
+}
