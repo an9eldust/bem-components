@@ -1,6 +1,6 @@
 @media all and (min-width:0px) {
 
-    .checkbox:not(.checkbox_disabled_yes)
+    .checkbox__box
     {
         cursor: pointer;
     }
