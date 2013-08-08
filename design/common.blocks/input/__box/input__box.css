@@ -4,6 +4,9 @@
     position: relative;
 
     display: block;
+
+    color: #000;
+    background: #fff;
 }
 
 @media all and (min-width:0px) {

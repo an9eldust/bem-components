@@ -1,8 +1,9 @@
 ({
-    block: "page",
+    block: 'page',
+    attrs: { style: 'background: #999' },
     head: [
-        { elem: "css", url: "_simple.css", ie: false },
-        { elem: "js", url: "_simple.js" }
+        { elem: 'css', url: '_simple.css', ie: false },
+        { elem: 'js', url: '_simple.js' }
     ],
     content: [
         {
